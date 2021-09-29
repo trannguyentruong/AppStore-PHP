@@ -1,11 +1,35 @@
-Đồ án cuối kỳ môn học Lập trình web & ứng dụng (503073)
-
-1. Mô tả: Website kho ứng dụng di động
-
-2. Danh sách thành viên
-	- 519H0356: Trần Nguyên Trường
-	- 519H0316: Nguyễn Tấn Minh
-	- 519H0104: Nguyễn Đức Duy
+<h1>App store PHP</h1>
+<ul>
+  <li>
+    This is a final project belong to subject web application in my college.
+  </li>
+  <li>
+    A game made by Tran Nguyen Truong using Turtle library in Python
+  </li>
+  <li>
+    The game was made with purpose to visualize how BFS algorithm run and it application.
+  </li>
+  <li>
+    References: 
+    <ul>
+      <li>
+        https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg
+      </li>
+      <li>
+        https://www.youtube.com/watch?v=ZuHW4fS60pc
+      </li>
+    </ul>
+  </li>
+</ul>
+Requirement: 
+<ul>
+  <li>
+    <code>Python version > 2.5</code>
+  </li>
+  <li>
+    If you already have install turtle and collection library skip this else open cmd and type <code>python -m pip install turtle</code> and <code>python -m pip install collections</code> to install it
+  </li>
+</ul>
 
 3. Link đã deploy:
 	- https://bedevelovebug1412.000webhostapp.com/
