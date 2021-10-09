@@ -30,4 +30,4 @@ To run this project, you need:
 - Run server and signup to start.
   - Admin acount:
     - username: ```trannguyentruong2001@gmail.com```.
-    - password: ```123456```.
+    - password: ```12345678```.
